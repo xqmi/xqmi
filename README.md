@@ -1,5 +1,5 @@
 - Hi, I’m @xqmi
-- I’m interested in Software Development, AI, Cyber Security and Cloud computing :)
+- I’m interested in Software Development, Cloud computing and Web Development :)
 
 
 
